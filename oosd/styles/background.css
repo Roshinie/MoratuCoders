@@ -1,8 +1,8 @@
 body{
     background-image: url("../images/bg4.svg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size:cover;
-    background-position:center;
+    
   }
   ul{
     font-family: arial;
