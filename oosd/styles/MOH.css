@@ -1,3 +1,7 @@
+#content
+{ background-image: url("../images/bg4.svg");
+  float:left;}
+
 #sidebar_container
 { float: right;
   width: 224px;}
