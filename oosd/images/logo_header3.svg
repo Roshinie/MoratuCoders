@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="348.72" height="366.33" xml:space="preserve">
+<desc>Created with Fabric.js 1.6.0-rc.1</desc>
+<defs></defs>
+<g style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(10 10) scale(5.87 5.87)" >
+  <path d="M 53.168 58 H 4.832 C 3.82 58 3 57.18 3 56.168 V 1.832 C 3 0.82 3.82 0 4.832 0 h 48.335 C 54.18 0 55 0.82 55 1.832 v 54.335 C 55 57.18 54.18 58 53.168 58 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #424A60; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+  <path d="M 34.495 17 h -10.99 C 21.572 17 20 15.428 20 13.495 V 12 c 0 -0.553 0.447 -1 1 -1 s 1 0.447 1 1 v 1.495 C 22 14.325 22.675 15 23.505 15 h 10.99 C 35.325 15 36 14.325 36 13.495 V 12 c 0 -0.553 0.447 -1 1 -1 s 1 0.447 1 1 v 1.495 C 38 15.428 36.428 17 34.495 17 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #E7ECED; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+  <path d="M 34.495 46 h -10.99 C 21.572 46 20 44.428 20 42.495 V 41 c 0 -0.553 0.447 -1 1 -1 s 1 0.447 1 1 v 1.495 C 22 43.325 22.675 44 23.505 44 h 10.99 C 35.325 44 36 43.325 36 42.495 V 41 c 0 -0.553 0.447 -1 1 -1 s 1 0.447 1 1 v 1.495 C 38 44.428 36.428 46 34.495 46 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #E7ECED; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+  <rect x="3" y="28" rx="0" ry="0" width="52" height="2" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #2B313F; fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) "/>
+</g>
+</svg>
